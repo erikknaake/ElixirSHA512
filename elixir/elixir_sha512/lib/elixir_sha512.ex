@@ -215,7 +215,6 @@ defmodule ElixirSha512 do
         message
         |> padd
         |> parse
-#    parse(padd(message))
   end
 
   @spec parse(binary()) :: list(list(binary()))
