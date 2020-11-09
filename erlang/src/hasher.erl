@@ -16,7 +16,7 @@
   rotateRight/2,
   shiftRight/2,
   ch/3,
-  maj/3,
+  maj/3,lixir hello world
   sum0/1,
   sum1/1,
   sigma0/1,
